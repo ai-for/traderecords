@@ -1,0 +1,17 @@
+# Compiled files
+/target/
+
+# Build artifacts
+**/*.rlib
+Cargo.lock
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
